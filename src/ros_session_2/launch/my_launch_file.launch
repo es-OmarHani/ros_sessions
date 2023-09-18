@@ -1,0 +1,6 @@
+<launch>
+
+  <param name="my_parameter" value="0.2" />
+
+  <node name="my_script_node" pkg="ros_session_2" type="my_script.py" output="screen"></node>
+</launch>

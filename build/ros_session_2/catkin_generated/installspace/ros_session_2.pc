@@ -1,0 +1,8 @@
+prefix=/home/omar/catkin_ws/install
+
+Name: ros_session_2
+Description: Description of ros_session_2
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
